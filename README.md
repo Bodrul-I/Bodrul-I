@@ -4,6 +4,9 @@ A aspiring Cloud / DevOps Engineer based in the UK :gb: , fascinated by the worl
 
 <img align="center" alt="cloud" width="550" height="300" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
 
+## Certifications 
+<img src="./img/AWS-CloudPractitioner-2020.png" width="70" height="65"></img>
+
 ## Languages and Tools
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
