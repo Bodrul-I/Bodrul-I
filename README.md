@@ -1,6 +1,6 @@
 # Hi I'm Bodrul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-A aspiring Cloud / DevOps Engineer based in the UK , fascinated by the world of Cloud Computing / Dev Ops and how it has and is continuing to revolutionise all industries. I have been self-studying with lots of hands-on experience in AWS Cloud, Linux, and Python Programming. Having recently passed the AWS Certified Cloud Practitioner exam, I am keen to immerse myself in Cloud and Dev Ops technologies and to put into practice the knowledge I have gained so far.  
+A aspiring Cloud / DevOps Engineer based in the UK :gb: , fascinated by the world of Cloud Computing / Dev Ops and how it has and is continuing to revolutionise all industries. I have been self-studying with lots of hands-on experience in AWS Cloud, Linux, and Python Programming. Having recently passed the AWS Certified Cloud Practitioner exam, I am keen to immerse myself in Cloud and Dev Ops technologies and to put into practice the knowledge I have gained so far.  
 
 <img align="center" alt="cloud" width="550" height="300" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
 
@@ -23,7 +23,7 @@ A aspiring Cloud / DevOps Engineer based in the UK , fascinated by the world of 
 - 🔭 **I’m currently working** on AWS Cloud Projects 
 - 🌱 **I’m currently learning** AWS, Linux, Python,   Networking
 - 📫 **How to reach me:** bodrul.islam93@googlemail.com
-- ⚡ **Fun fact:** Huge football fan and love hitting the GYM !!!
+- ⚡ **Fun fact:** Football fan :soccer: and love hitting the GYM :weight_lifting_man: !!!
   
 <br>
  
