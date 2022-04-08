@@ -5,7 +5,7 @@ A aspiring Cloud / DevOps Engineer based in the UK :gb: , fascinated by the worl
 <img align="center" alt="cloud" width="550" height="300" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
 
 ## Certifications 
-<img src="./img/AWS-CloudPractitioner-2020.png" width="70" height="65"></img>
+<img src="./img/aws-certified-cloud-practitioner.png" width="85" height="80"></img>
 
 ## Languages and Tools
 
